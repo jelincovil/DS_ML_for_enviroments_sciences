@@ -5,4 +5,19 @@
 + Coadvice: Phd. Jaime Lincovil Curivil [Linkedin](https://www.linkedin.com/in/jaime-enrique-lincovil-curivil-973a9b186/?originalSubdomain=cl)
 
 **Summary:**
-# 
+# Introduction
+
+# Data
+
+| Date | Padre las Casas| Las Encinas| Museo| Máximo|
+|---|---|---|---|---|
+| x_1|   |   |   |w_1|
+| ...|   |   |   |...|
+| x_n|   |   |   |w_n|
+
+# Python routines generated
+
+We provide a function called **inputed_mp25** wich transform dataframe panda with missing values to the correspondence full imputed dataframe.
+
+
+
