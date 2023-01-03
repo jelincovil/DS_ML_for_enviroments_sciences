@@ -11,9 +11,9 @@
 
 | Date | Padre las Casas| Las Encinas| Museo| Máximo|
 |---|---|---|---|---|
-| x_1|   |   |   |w_1|
-| ...|   |   |   |...|
-| x_n|   |   |   |w_n|
+|date_1   |x_1|   |   |w_1|
+| ...  |...|   |   |...|
+| date_n  |x_n|   |   |w_n|
 
 # Python routines generated
 
