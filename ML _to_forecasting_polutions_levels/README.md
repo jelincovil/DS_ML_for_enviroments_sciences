@@ -17,7 +17,8 @@
 
 # Python routines generated
 
-We provide a function called **inputed_mp25** wich transform dataframe panda with missing values to the correspondence full imputed dataframe.
+We provide a function called **inputed_mp25** wich transform dataframe panda with missing values to the correspondence full imputed dataframe
+via interpolation and others methods.
 
 
 
